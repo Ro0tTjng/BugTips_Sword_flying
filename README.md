@@ -2,7 +2,6 @@
 Vulnerability mining tips 
  
 information gathering：
-
 fofa.info(EHole、fofa_viewer)
 hunter.qianxin.com
  
